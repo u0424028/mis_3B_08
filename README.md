@@ -24,3 +24,5 @@
 1.應用程式在使用者送出資料時會有驗證碼的機制
 2.應用程式與使用者互動不超過2秒
 3.只有系統管理者可看到使用者資訊
+
+甘特圖:https://drive.google.com/file/d/0BxyDCBeVUKC3UXViZGhRV29PM0k/view

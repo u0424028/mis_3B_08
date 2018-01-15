@@ -35,3 +35,5 @@
 3.只有系統管理者可看到使用者資訊
 
 甘特圖:https://drive.google.com/file/d/0BxyDCBeVUKC3UXViZGhRV29PM0k/view
+
+![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%871.JPG)

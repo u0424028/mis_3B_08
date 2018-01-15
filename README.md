@@ -4,10 +4,10 @@
 
 指導教授：朱彥銘
 
-    小組組員：
-    廖晋緯 0424016 
-    李東穎 0424028 
-    許至慶 0424064 
+小組組員：
+廖晋緯 0424016 
+李東穎 0424028 
+許至慶 0424064 
 
 
 專題題目：校園行動支付示範系統
@@ -22,6 +22,7 @@
 效益：改變校園學生對行動支付的認知，且藉由有趣及新奇的方式，帶動行動支付的風氣及消費習慣。
 
 功能性需求:
+-------
 
 1.使用者使用時人臉辨識將會做動
 
@@ -34,6 +35,7 @@
 5.App部分可使用Facebook、Google登入
 
 非功能性需求:
+-------
 
 1.應用程式在使用者送出資料時會有驗證碼的機制
 
@@ -41,12 +43,18 @@
 
 3.只有系統管理者可看到使用者資訊
 
-甘特圖:https://drive.google.com/file/d/0BxyDCBeVUKC3UXViZGhRV29PM0k/view
+甘特圖:
+-------
+https://drive.google.com/file/d/0BxyDCBeVUKC3UXViZGhRV29PM0k/view
+
+專題介紹:
+-------
 
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%871.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%872.JPG)
 
 此部分由許至慶負責
+-------
 
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%873.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%874.JPG)
@@ -56,6 +64,7 @@
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%878.JPG)
 
 此部分由李東穎負責
+-------
 
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%879.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8710.JPG)
@@ -67,6 +76,7 @@
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8716.JPG)
 
 此部分由廖晋緯負責
+-------
 
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8717.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8718.JPG)

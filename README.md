@@ -38,12 +38,18 @@
 
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%871.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%872.JPG)
+
+此部分由許至慶負責
+
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%873.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%874.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%875.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%876.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%877.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%878.JPG)
+
+此部分由李東穎負責
+
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%879.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8710.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8711.JPG)
@@ -52,6 +58,9 @@
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8714.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8715.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8716.JPG)
+
+此部分由廖晋緯負責
+
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8717.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8718.JPG)
 ![image](https://github.com/EddieSyu/mis_3B_08/blob/master/%E6%8A%95%E5%BD%B1%E7%89%8719.JPG)
